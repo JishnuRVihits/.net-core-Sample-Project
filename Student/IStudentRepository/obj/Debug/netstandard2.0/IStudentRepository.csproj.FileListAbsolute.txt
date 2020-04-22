@@ -1,0 +1,12 @@
+D:\Projects\dotNetCore\Student\Student\IStudentRepository\bin\Debug\netstandard2.0\IStudentRepository.deps.json
+D:\Projects\dotNetCore\Student\Student\IStudentRepository\bin\Debug\netstandard2.0\IStudentRepository.dll
+D:\Projects\dotNetCore\Student\Student\IStudentRepository\bin\Debug\netstandard2.0\IStudentRepository.pdb
+D:\Projects\dotNetCore\Student\Student\IStudentRepository\bin\Debug\netstandard2.0\StudentVM.dll
+D:\Projects\dotNetCore\Student\Student\IStudentRepository\bin\Debug\netstandard2.0\StudentVM.pdb
+D:\Projects\dotNetCore\Student\Student\IStudentRepository\obj\Debug\netstandard2.0\IStudentRepository.csprojAssemblyReference.cache
+D:\Projects\dotNetCore\Student\Student\IStudentRepository\obj\Debug\netstandard2.0\IStudentRepository.csproj.CoreCompileInputs.cache
+D:\Projects\dotNetCore\Student\Student\IStudentRepository\obj\Debug\netstandard2.0\IStudentRepository.AssemblyInfoInputs.cache
+D:\Projects\dotNetCore\Student\Student\IStudentRepository\obj\Debug\netstandard2.0\IStudentRepository.AssemblyInfo.cs
+D:\Projects\dotNetCore\Student\Student\IStudentRepository\obj\Debug\netstandard2.0\IStudentRepository.csproj.CopyComplete
+D:\Projects\dotNetCore\Student\Student\IStudentRepository\obj\Debug\netstandard2.0\IStudentRepository.dll
+D:\Projects\dotNetCore\Student\Student\IStudentRepository\obj\Debug\netstandard2.0\IStudentRepository.pdb

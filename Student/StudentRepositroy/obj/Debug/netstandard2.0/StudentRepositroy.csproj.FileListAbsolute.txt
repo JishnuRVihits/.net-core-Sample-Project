@@ -1,0 +1,14 @@
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\bin\Debug\netstandard2.0\StudentRepositroy.deps.json
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\bin\Debug\netstandard2.0\StudentRepositroy.dll
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\bin\Debug\netstandard2.0\StudentRepositroy.pdb
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\bin\Debug\netstandard2.0\IStudentRepository.dll
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\bin\Debug\netstandard2.0\StudentVM.dll
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\bin\Debug\netstandard2.0\IStudentRepository.pdb
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\bin\Debug\netstandard2.0\StudentVM.pdb
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\obj\Debug\netstandard2.0\StudentRepositroy.csprojAssemblyReference.cache
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\obj\Debug\netstandard2.0\StudentRepositroy.csproj.CoreCompileInputs.cache
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\obj\Debug\netstandard2.0\StudentRepositroy.AssemblyInfoInputs.cache
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\obj\Debug\netstandard2.0\StudentRepositroy.AssemblyInfo.cs
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\obj\Debug\netstandard2.0\StudentRepositroy.csproj.CopyComplete
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\obj\Debug\netstandard2.0\StudentRepositroy.dll
+D:\Projects\dotNetCore\Student\Student\StudentRepositroy\obj\Debug\netstandard2.0\StudentRepositroy.pdb

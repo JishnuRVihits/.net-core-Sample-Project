@@ -1,0 +1,9 @@
+D:\Projects\dotNetCore\Student\Student\StudentVM\bin\Debug\netstandard2.0\StudentVM.deps.json
+D:\Projects\dotNetCore\Student\Student\StudentVM\bin\Debug\netstandard2.0\StudentVM.dll
+D:\Projects\dotNetCore\Student\Student\StudentVM\bin\Debug\netstandard2.0\StudentVM.pdb
+D:\Projects\dotNetCore\Student\Student\StudentVM\obj\Debug\netstandard2.0\StudentVM.csprojAssemblyReference.cache
+D:\Projects\dotNetCore\Student\Student\StudentVM\obj\Debug\netstandard2.0\StudentVM.csproj.CoreCompileInputs.cache
+D:\Projects\dotNetCore\Student\Student\StudentVM\obj\Debug\netstandard2.0\StudentVM.AssemblyInfoInputs.cache
+D:\Projects\dotNetCore\Student\Student\StudentVM\obj\Debug\netstandard2.0\StudentVM.AssemblyInfo.cs
+D:\Projects\dotNetCore\Student\Student\StudentVM\obj\Debug\netstandard2.0\StudentVM.dll
+D:\Projects\dotNetCore\Student\Student\StudentVM\obj\Debug\netstandard2.0\StudentVM.pdb
